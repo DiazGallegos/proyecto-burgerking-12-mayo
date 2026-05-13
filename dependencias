@@ -1,0 +1,16 @@
+1. `flutter_bloc`
+2. `get_it`
+3. `equatable`
+4. `dio`
+5. `json_annotation`
+6. `json_serializable`
+7. `sqflite`
+8. `sqflite_common_ffi`
+9. `shared_preferences`
+10. `google_fonts`
+11. `flutter_svg`
+12. `font_awesome_flutter`
+13. `intl`
+14. `animate_do`
+15. `build_runner`
+16. `flutter_lints`
